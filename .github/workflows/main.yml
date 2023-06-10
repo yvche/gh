@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+      with:
+        ref: master
+        fetch-depth: 0
+        lfs: true
     - uses: actions/setup-python@v4
       with:
         python-version: '3.x'
@@ -21,5 +25,5 @@ jobs:
         git config user.email "135419997+yvche@users.noreply.github.com"
         git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
         git add .
-        git commit -m "$(date "+%Y%m%d-%H%M")"
+        git commit -m "$(date "+%Y%m%d-%H%M")" --allow-empty
         git push
