@@ -69,7 +69,7 @@ RAW_URL = [
 
 IPADDRESS_PREFIX = ".ipaddress.com"
 
-HOSTS_TEMPLATE = """# GitHubHosts Start
+HOSTS_TEMPLATE = """# GitHubHosts Start\n
 {content}
 # GitHubHosts End\n"""
 
