@@ -1,5 +1,5 @@
 
-###  2023-06-27T21:09:34+08:00
+###  2023-06-27T22:31:56+08:00
 ```bash
 # GitHubHosts Start
 
@@ -16,7 +16,8 @@
 192.0.66.2                    github.blog
 140.82.112.4                  api.github.com
 140.82.112.4                  raw.github.com
-185.199.108.133               favicons.githubusercontent.com
+185.199.108.133               user-images.githubusercontent.com
+185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
 140.82.112.4                  codeload.github.com
@@ -34,7 +35,7 @@
 140.82.112.4                  nodeload.github.com
 140.82.112.4                  status.github.com
 140.82.112.4                  training.github.com
-185.199.108.133               avatars7.githubusercontent.com
+185.199.108.133               avatars8.githubusercontent.com
 140.82.112.4                  customer-stories-feed.github.com
 140.82.112.4                  pages.github.com
 140.82.112.29                 githubapp.com
