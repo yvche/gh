@@ -1,5 +1,5 @@
 
-###  2023-07-01T21:00:14+08:00
+###  2023-07-02T21:00:24+08:00
 ```bash
 # GitHubHosts Start
 
@@ -10,7 +10,6 @@
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.112.4                  gist.github.com
-185.199.108.153               github.io
 140.82.112.4                  github.com
 192.0.66.2                    github.blog
 140.82.112.4                  api.github.com
